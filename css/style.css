@@ -320,7 +320,46 @@ header .intro-text .intro-heading {
 }
 
 #article {
-	background-image: url(../images/demo/couple-amoureux.png);
+	background-image: url(../images/kechkech.jpg);
+	background-repeat:no-repeat;
+	background-size: 100%;
+    width: 100%;
+    height: 100%;
+    position: relative;
+    min-height: 620px;
+	}
+#article p {
+	color:yellow;
+	}
+#article a {
+	color:white;
+	}
+#article h3 {
+	color:white;
+	}
+#titrearticle {
+	color:white;
+	}
+#programme {
+	color:white;
+	}
+#tableauprogramme{
+	background-image: url(../images/kech.jpg);
+	background-repeat:repeat;
+	background-size: 100%;
+    width: 100%;
+    height: 100%;
+    position: relative;
+    min-height: 620px;
+	}
+#tableauprogramme p {
+	color:white;
+	}
+#tableauprogramme h3 {
+	color:#FED16E;
+	}
+#tableauprogramme a {
+	color:white;
 	}
 /*--------------------
 4.1. About
