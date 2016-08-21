@@ -361,6 +361,24 @@ header .intro-text .intro-heading {
 #tableauprogramme a {
 	color:white;
 	}
+#actualite {
+background-image: url(../images/kechkech.jpg);
+	background-repeat:no-repeat;
+	background-size: 100%;
+    width: 100%;
+    height: 100%;
+    position: relative;
+    min-height: 620px;
+	}
+#actualite p {
+	color:white;
+	}
+#actualite h3 {
+	color:white;
+	}
+#actualite b {
+	color:yellow;
+	}
 /*--------------------
 4.1. About
 --------------------*/
