@@ -363,7 +363,7 @@ header .intro-text .intro-heading {
 	}
 #actualite {
 background-image: url(../images/kechkech.jpg);
-	background-repeat:no-repeat;
+	background-repeat:repeat;
 	background-size: 100%;
     width: 100%;
     height: 100%;
