@@ -319,6 +319,9 @@ header .intro-text .intro-heading {
 	margin: 20px 100px 60px 100px;
 }
 
+#article {
+	background-image: url(../images/demo/couple-amoureux.png);
+	}
 /*--------------------
 4.1. About
 --------------------*/
