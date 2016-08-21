@@ -379,11 +379,15 @@ background-image: url(../images/kechkech.jpg);
 #actualite b {
 	color:yellow;
 	}
+#actualite a {
+	color:white;
+	}
 @media screen and (max-width:985px)
 {
 	#actualite {
-background-image: url(../images/kechkech.jpg);
+background-image: none;
 	background-repeat:repeat;
+	background-color:#5F9EA0;
 	background-size: 100%;
     width: 100%;
     height: 100%;
