@@ -204,7 +204,7 @@ section ul li:before {
 		margin-top: 1px;
 	}
 }
-@media screen and (max-width: 680px) {
+@media screen and (max-width: 490px) {
 	.navbar
 	{
 		display:none;
